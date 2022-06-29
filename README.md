@@ -1,1 +1,1 @@
-# ml-notes
+# Machine Learning 101
